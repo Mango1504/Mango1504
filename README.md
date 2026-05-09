@@ -16,7 +16,7 @@ I build AI systems that solve real problems — from YOLOv8-powered exam surveil
 ---
 🔬 Research
 > **AI-Powered CCTV Surveillance for Intelligent Examination Monitoring and Automated Alert System Using YOLOv8**  
-> Published at **ICAMC 2026** — 4th International Conference on Emerging Applications of AI, Machine Learning and Cybersecurity  
+> Presented at **ICAMC 2026** — 4th International Conference on Emerging Applications of AI, Machine Learning and Cybersecurity  
 > Organized by HMRITM, New Delhi · Proceedings: **Springer LNCS**
 ---
 🚀 Featured projects
@@ -37,8 +37,8 @@ Network discovery and device enumeration tool. Also includes ZTE F670L router un
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mango1504&layout=compact&hide_border=true&theme=default)
 ---
 🎓 Education & achievements
-B.Tech Computer Science — Lovely Professional University (2022–2026) · CGPA: 7.01
-ICAMC 2026 — Published paper presenter (Springer LNCS)
+B.Tech Computer Science — Lovely Professional University (2022–2026)
+ICAMC 2026 — paper presenter (Springer LNCS)
 Cybersecurity showcase — Live HTTPS attack demonstration, university event
 Focus areas — Computer vision · Ethical hacking · AI systems · Android development
 ---
