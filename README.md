@@ -43,6 +43,6 @@ Cybersecurity showcase — Live HTTPS attack demonstration, university event
 Focus areas — Computer vision · Ethical hacking · AI systems · Android development
 ---
 📫 Connect
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/rishabhdubey1504/)
+![Email](writetorishabhdubey@gmail.com)
 ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)
