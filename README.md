@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27571138/README.md)
 # Hi, I'm Rishabh Dubey 👋
 
 **AI/ML Engineer · Cybersecurity · Final-year B.Tech CS @ LPU**
