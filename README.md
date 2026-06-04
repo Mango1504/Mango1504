@@ -2,7 +2,7 @@
 
 **AI/ML Engineer · Cybersecurity · Final-year B.Tech CS @ LPU**
 
-I build AI systems that solve real problems — from YOLOv8-powered exam surveillance to live network security tools. Currently finishing my B.Tech at Lovely Professional University with a focus on computer vision and ethical hacking. Published researcher at ICAMC 2026 (Springer).
+I build AI systems that solve real problems — from YOLOv8-powered exam surveillance to live network security tools. Currently finishing my B.Tech at Lovely Professional University with a focus on computer vision and ethical hacking. Presented research at ICAMC 2026 (Springer).
 
 ---
 
