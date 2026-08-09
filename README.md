@@ -2,20 +2,22 @@
 
 **AI/ML Engineer · Cybersecurity · Final-year B.Tech CS @ LPU**
 
-I build AI systems that solve real problems — from YOLOv8-powered exam surveillance to live network security tools. Currently finishing my B.Tech at Lovely Professional University with a focus on computer vision and ethical hacking. Presented research at ICAMC 2026 (Springer).
+I build AI systems and security tooling that solve real problems — from a published, YOLOv8-powered exam surveillance platform to live network reconnaissance tools and full-stack distributed systems. Currently finishing my B.Tech at Lovely Professional University with a focus on computer vision and ethical hacking. My research on AI-powered exam monitoring is published in IJST and was presented at two international conferences.
 
 ---
 
 ## 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAA?style=flat&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -23,32 +25,38 @@ I build AI systems that solve real problems — from YOLOv8-powered exam surveil
 
 ## 🔬 Research
 
-> **AI-Powered CCTV Surveillance for Intelligent Examination Monitoring and Automated Alert System Using YOLOv8**  
-> Presented at **ICAMC 2026** — 4th International Conference on Emerging Applications of AI, Machine Learning and Cybersecurity  
-> Organized by HMRITM, New Delhi · Proceedings: **Springer LNCS**
+> **AI-Powered CCTV Surveillance for Intelligent Examination Monitoring and Automated Alert System Using YOLOv8**
+> Published in **International Journal of Science, Engineering and Technology (IJST)**, Vol. 14(4), 2026 — [DOI: 10.5281/zenodo.21716279](https://zenodo.org/records/21716279)
+> Presented at **ICAMC 2026** (Springer LNCS, HMRITM New Delhi) and **ICSAS 2026** — lead author & project lead
 
 ---
 
 ## 🚀 Featured projects
 
 ### 📷 [AI-Surveillance](https://github.com/Mango1504/AI-Surveillance)
-Real-time exam hall monitoring system using YOLOv8. Detects phones and laptops, maps violations to a 5×6 seat grid, auto-records clips, and streams live via a Flask API consumed by a companion Android app (Kotlin + MVVM).
+Edge-deployed AI surveillance and exam-proctoring platform. Started as a Flask + YOLOv8 exam-hall monitor with grid-based violation mapping; evolved into a hardware-adaptive system with an NVIDIA Metropolis pipeline (DeepStream, TensorRT, Triton), multi-camera tracking, and Kafka event streaming — while keeping a CPU-only legacy mode for institutions without GPUs.
 
-`Python` `YOLOv8` `OpenCV` `Flask` `Kotlin` `Android` `MJPEG`
+`Python` `YOLOv8` `DeepStream` `TensorRT` `Triton` `Kafka` `React` `Docker`
 
----
+### 🌐 [Network-Scanner](https://github.com/Mango1504/Network-Scanner) *("NetSentinel Recon")*
+Started as a Python CLI recon tool (`socket`, `ipaddress`, multi-threaded host discovery) for the information-gathering phase of pentesting exercises; rebuilt into a full-stack web app wrapping `nmap`, with a React dashboard, WebSocket live scan progress, SQLite scan history, and Docker packaging. [Live demo](https://network-scanner-o01w.onrender.com).
+
+`Python` `Node.js` `React` `Nmap` `WebSockets` `Docker`
 
 ### 🛡️ HTTPS Vulnerability Showcase *(Kali Linux)*
-Offline cybersecurity demo showing HTTPS weaknesses end-to-end: ARP poisoning with Bettercap → DNS spoofing → fake HTTPS site with custom CA certificate → live credential capture via mitmproxy. Built for university security showcase.
+Offline cybersecurity demo showing HTTPS weaknesses end-to-end: ARP poisoning with Bettercap → DNS spoofing → fake HTTPS site with custom CA certificate → live credential capture via mitmproxy. Built for a university security showcase.
 
 `Kali Linux` `Bettercap` `mitmproxy` `DNS Spoofing` `Custom CA`
 
----
+### 🎯 [AimPrint](https://github.com/Mango1504/AimPrint)
+FPS aim telemetry analyzer with a C input-capture layer, a Rust analysis engine, and a Tauri/React desktop frontend. Validated through a large Reddit campaign with strong community response.
 
-### 🌐 [Network-Scanner](https://github.com/Mango1504/Network-Scanner)
-Network discovery and device enumeration tool. Also includes ZTE F670L router unlock via telnet using `zte_modem_tools` for custom wired access point configuration.
+`C` `Rust` `Tauri` `React`
 
-`Python` `Telnet` `Networking` `zte_modem_tools`
+### 🛒 [Bazingo](https://github.com/Mango1504/Bazizngo)
+Student/bachelor-focused hyperlocal marketplace platform, in active development.
+
+`Django` `FastAPI` `Next.js` `PostgreSQL` `Razorpay`
 
 ---
 
@@ -61,15 +69,15 @@ Network discovery and device enumeration tool. Also includes ZTE F670L router un
 
 ## 🎓 Education & achievements
 
-- **B.Tech Computer Science** — Lovely Professional University (2022–2026) · CGPA: 7.01
-- **ICAMC 2026** — paper presenter (Springer LNCS)
-- **Cybersecurity showcase** — Live HTTPS attack demonstration, university event
-- **Focus areas** — Computer vision · Ethical hacking · AI systems · Android development
+- **B.Tech Computer Science** — Lovely Professional University (2022–2026) · CGPA: 7.11
+- **Published Research** — IJST Vol. 14(4), 2026 (DOI: 10.5281/zenodo.21716279); presented at ICAMC 2026 & ICSAS 2026 (Springer LNCS)
+- **Top 1% — Capture The Flag (CTF)** — Ranked 4th among 400+ participants, college-hosted competition
+- **Certifications** — CompTIA Security+ (SY0-601), Ethical Hacking Essentials (EHE, EC-Council), Linux System Administration, Cloud Computing (NPTEL/IIT)
+- **Focus areas** — Computer vision · Ethical hacking · AI systems · Distributed systems
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhdubey1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhdubey1504/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:writetorishabhdubey@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
