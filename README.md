@@ -1,44 +1,37 @@
 # Hi, I'm Rishabh Dubey 👋
 
-**Software Engineer | Python, REST APIs, Linux & Docker | Backend, Security & Applied AI**
+**Computer Science Graduate (2026) | Software Development | AI/ML & Computer Vision | Cybersecurity**
 
-I build practical software across backend services, security tooling and computer-vision systems. My work includes Python APIs, network reconnaissance, Dockerized applications and an AI-powered examination-monitoring platform built with YOLOv8. I’m based in Bengaluru and currently exploring software engineering opportunities.
+Computer Science graduate with project and research experience in software development, machine learning, computer vision, and cybersecurity. First author of a published AI-powered exam-monitoring paper and team lead for a four-person capstone system built with Python, YOLOv8, and OpenCV (0.92 mAP at IoU 0.5; under 15 ms per frame). I also built Boop, a QR-based pet-reunification platform, and NetShield, an authorized network-scanning dashboard.
 
-## 🛠️ Tech stack
+## Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+- **Programming:** Python, Java, C++, JavaScript, TypeScript, Bash, SQL
+- **AI and Computer Vision:** PyTorch, OpenCV, YOLOv8, object detection, DeepFace
+- **Web Development:** React, Node.js, Express, Flask, HTML, CSS, Socket.IO
+- **Cybersecurity:** Nmap, Metasploit, Shodan, Maltego, OSINT, network scanning, network forensics
+- **Tools and Platforms:** Linux, Git, GitHub, Docker, PostgreSQL, SQLite, Supabase
 
-## 🔬 Research
+## Published Research
 
-> **AI-Powered CCTV Surveillance for Intelligent Examination Monitoring and Automated Alert System Using YOLOv8**
->
-> Published in the **International Journal of Science, Engineering and Technology (IJST)**, Vol. 14(4), 2026 — [DOI](https://zenodo.org/records/21716279).
->
-> Presented at **ICAMC 2026** and **ICSAS 2026** — lead author and project lead.
+**AI-Powered CCTV Surveillance for Intelligent Examination Monitoring and Automated Alert System Using YOLOv8**  
+First-author paper, International Journal of Science, Engineering and Technology (IJSET), Vol. 14, Issue 4, 2026. Presented at ICAMC 2026 and ICSAS 2026.
 
-## 🚀 Featured projects
+[Read the paper](https://www.ijset.in/ai-powered-cctv-surveillance-for-intelligent-examination-monitoring-and-automated-alert-system-using-yolov8/) | [DOI](https://doi.org/10.5281/zenodo.21716279)
 
-### 📷 [AI-Surveillance](https://github.com/Mango1504/AI-Surveillance)
-AI-powered examination-monitoring platform using YOLOv8, OpenCV and Python, with real-time detection, tracking and alert workflows. The project also explores hardware-adaptive deployment with Docker and edge-focused inference.
+## Selected Projects
 
-### 🌐 [Network-Scanner](https://github.com/Mango1504/Network-Scanner)
-Full-stack network reconnaissance tool with a React dashboard, live WebSocket scan progress, scan history and Docker packaging. Includes host discovery and Nmap-based scanning for authorized lab environments.
+### [Boop - QR Pet Identity and Reconnection Platform](https://github.com/Mango1504/reunite) | Sep-Oct 2026
+A privacy-conscious pet identity platform that lets finders contact owners through a QR profile without exposing private contact details. Built with React, Supabase, and PostgreSQL.
 
-### 🛒 [Bazingo](https://github.com/Mango1504/Bazizngo)
-Hyperlocal marketplace platform built with Django, FastAPI, Next.js, PostgreSQL and Razorpay integrations.
+### [NetShield - Network Scanning Dashboard](https://github.com/Mango1504/Network-Scanner) | Mar-Apr 2026
+A web application for authorized auditing that queues Nmap scans, streams progress over WebSockets, parses XML output, and stores scan history in SQLite. Built with Node.js, Express, Socket.IO, React, and Docker.
 
-### 🎯 [AimPrint](https://github.com/Mango1504/AimPrint)
-Desktop telemetry-analysis application with a C input layer, Rust analysis engine and Tauri/React interface.
+### [AI-Surveillance - Exam Monitoring System](https://github.com/Mango1504/AI-Surveillance) | Jul-Dec 2025
+A computer-vision proctoring system with real-time camera ingestion, object detection, tracking, event streaming, and a React dashboard. Team lead for a four-person capstone team.
 
-## 📫 Connect
+## Connect
 
+- [Portfolio](https://rishabh-dubey-portfolio.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/rishabhdubey1/)
-- [Email](mailto:writetorishabhdubey@gmail.com)
+- [Email](mailto:rishabhdubey1544@gmail.com)
